@@ -1,16 +1,18 @@
 ---
-workshop_id: 
+workshop_id: SR20211209PR_01
 topic: preregistration
-title: 
-instructors: []
-instructor_emails: []
+title: UEA PreRegistration workshop
+instructors:
+  - Dr Stephanie Rossit
+instructor_emails:
+  - s.rossit@uea.ac.uk
 helpers: []
 start_times:
   - 09|00
 setup_files: []
 language: en
-venue: null
-address: null
+venue: online
+address: online
 country: null
 latitude: null
 longitude: null
